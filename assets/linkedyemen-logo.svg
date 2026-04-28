@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 512 512" fill="none">
+  <title>LinkedYemen 2D Logo</title>
+  <desc>Flat 2D SVG version of the LinkedYemen icon.</desc>
+  <defs>
+    <linearGradient id="greenGrad" x1="95" y1="120" x2="417" y2="392" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#27D07C"/>
+      <stop offset="1" stop-color="#10A861"/>
+    </linearGradient>
+    <filter id="shadow" x="40" y="40" width="432" height="432" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <g filter="url(#shadow)">
+    <rect x="116" y="116" width="280" height="280" rx="72" transform="rotate(45 256 256)" fill="none" stroke="url(#greenGrad)" stroke-width="42"/>
+
+    <path d="M173 142
+             L240 75
+             Q256 59 272 75
+             L366 169
+             Q382 185 382 207
+             Q382 229 366 245
+             L311 300
+             L285 274
+             L337 222
+             Q347 212 347 198
+             Q347 184 337 174
+             L267 104
+             Q257 94 245 104
+             L198 151
+             Z" fill="#F7F8FA"/>
+
+    <path d="M262 179
+             L300 217
+             L222 295
+             L237 310
+             L205 342
+             L145 282
+             Q129 266 129 244
+             Q129 221 145 205
+             L230 120
+             L257 147
+             L171 233
+             Q161 243 161 257
+             Q161 271 171 281
+             L204 314
+             L178 340
+             Q162 356 184 378
+             L235 429
+             Q245 439 259 439
+             Q273 439 283 429
+             L340 372
+             L367 399
+             L310 456
+             Q288 478 256 478
+             Q224 478 202 456
+             L123 377
+             Q101 355 101 323
+             Q101 291 123 269
+             L262 130
+             Q284 108 316 108
+             Q348 108 370 130" fill="#F7F8FA" opacity="0"/>
+
+    <path d="M204 228
+             L248 184
+             L278 214
+             L214 278
+             Q184 308 184 350
+             Q184 392 214 422
+             L226 434
+             Q238 446 256 446
+             Q274 446 286 434
+             L343 377
+             L369 403
+             L312 460
+             Q288 484 256 484
+             Q224 484 200 460
+             L179 439
+             Q149 409 149 350
+             Q149 291 179 261
+             L204 236
+             Z" fill="#F7F8FA"/>
+
+    <rect x="252" y="256" width="34" height="34" rx="6" transform="rotate(45 252 256)" fill="url(#greenGrad)"/>
+    <rect x="215" y="300" width="34" height="34" rx="6" transform="rotate(45 215 300)" fill="#F7F8FA"/>
+  </g>
+</svg>
